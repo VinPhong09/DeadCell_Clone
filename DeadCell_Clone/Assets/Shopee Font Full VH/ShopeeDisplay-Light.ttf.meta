@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 78d6f87594599044888fdeb30cf12bea
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Shopee Display
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e785439db7a226d4199593f787234348, type: 3}
+  - {fileID: 12800000, guid: 03aa8e13abb86e64ca6118810e8026db, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

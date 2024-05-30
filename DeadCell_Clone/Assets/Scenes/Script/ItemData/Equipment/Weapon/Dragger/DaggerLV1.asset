@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6827c333724e873498a08886ab5d444e, type: 3}
+  m_Name: DaggerLV1
+  m_EditorClassIdentifier: 
+  id: 7eef4b112ba353e43800521ca42e58d4
+  ItemName: DaggerLV1
+  maxStack: 1
+  Icon: {fileID: 21300000, guid: b01c0e0ae48f2fa4aa362d77f1b3b7a7, type: 3}
+  HP: 0
+  MP: 0
+  DA: 3
+  DEF: 0
+  ArP: 0
+  AS: 0
+  HPPercentBonus: 0
+  MPPercentBonus: 0
+  DAPercentBonus: 0
+  DEFPercentBonus: 0
+  ArPPercentBonus: 0
+  ASPercentBonus: 0
+  equipmentType: 8

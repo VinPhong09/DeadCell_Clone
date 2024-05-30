@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 77481d35c0a76a74f836812e4effb408
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Old_Guardian_attack_1_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1109
+        width: 41
+        height: 60
+      alignment: 9
+      pivot: {x: 0.56122136, y: 0.49070436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247699902986bb84f99ccc9ce559a00b
+      internalID: 1684717717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Guardian_attack_1_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 988
+        width: 55
+        height: 60
+      alignment: 9
+      pivot: {x: 0.3351973, y: 0.5185944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803db27084926c743b95022dd8a7f35a
+      internalID: 1323443706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Guardian_attack_1_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 869
+        width: 70
+        height: 59
+      alignment: 9
+      pivot: {x: 0.2569613, y: 0.49291062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec5b0069dbe81c4fbdae07d370c9e75
+      internalID: 463729581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Guardian_attack_1_3
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 749
+        width: 66
+        height: 69
+      alignment: 9
+      pivot: {x: 0.27181163, y: 0.4312868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917fed666ec4f4841b8c1b542ace8676
+      internalID: -976227108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Guardian_attack_1_4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 629
+        width: 40
+        height: 83
+      alignment: 9
+      pivot: {x: 0.447707, y: 0.35551214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403bc7df15236e54395a6f07fb2e88fc
+      internalID: 218053941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Guardian_attack_1_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 509
+        width: 35
+        height: 83
+      alignment: 9
+      pivot: {x: 0.45617348, y: 0.35383183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734da6f143a9c9d45b3122f8c43258e2
+      internalID: 1419782082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Guardian_attack_1_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 389
+        width: 68
+        height: 70
+      alignment: 9
+      pivot: {x: 0.25596535, y: 0.407421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be528231c92fc98498005f72b3a803c9
+      internalID: -1327510787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Guardian_attack_1_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 269
+        width: 70
+        height: 58
+      alignment: 9
+      pivot: {x: 0.24301654, y: 0.5250265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d47578408ab45440b665b386e28fb89
+      internalID: 1008750645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Guardian_attack_1_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 147
+        width: 70
+        height: 58
+      alignment: 9
+      pivot: {x: 0.23563358, y: 0.5627886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bca2cc84513b3947af6ce8be5b8ffdf
+      internalID: -564077687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Guardian_attack_1_10
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 29
+        width: 70
+        height: 58
+      alignment: 9
+      pivot: {x: 0.23364149, y: 0.5236132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30b3c1ba6d1af14f837186d18d8e134
+      internalID: 1872510764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Old_Guardian_attack_1_10: 1872510764
+      Old_Guardian_attack_1_8: 1008750645
+      Old_Guardian_attack_1_2: 463729581
+      Old_Guardian_attack_1_5: 1419782082
+      Old_Guardian_attack_1_7: -1620298991
+      Old_Guardian_attack_1_6: -1327510787
+      Old_Guardian_attack_1_3: -976227108
+      Old_Guardian_attack_1_9: -564077687
+      Old_Guardian_attack_1_0: 1684717717
+      Old_Guardian_attack_1_4: 218053941
+      Old_Guardian_attack_1_1: 1323443706
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

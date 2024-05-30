@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6827c333724e873498a08886ab5d444e, type: 3}
+  m_Name: HelmetLv1
+  m_EditorClassIdentifier: 
+  id: fa9fbf602ff5dfa49912156576410698
+  ItemName: HelmetLv1
+  maxStack: 1
+  Icon: {fileID: 21300000, guid: cae24012f303e324c8eeed213d6c0c93, type: 3}
+  equipmentPanel: {fileID: 1983164513881460662, guid: daa70b068afc50741a0d4a16f820b0e8, type: 3}
+  equipmentSlot: {fileID: 1983164513927058312, guid: daa70b068afc50741a0d4a16f820b0e8, type: 3}
+  HP: 2
+  MP: 0
+  DA: 0
+  DEF: 0
+  ArP: 0
+  AS: 0
+  HPPercentBonus: 0
+  MPPercentBonus: 0
+  DAPercentBonus: 0
+  DEFPercentBonus: 0
+  ArPPercentBonus: 0
+  ASPercentBonus: 0
+  equipmentType: 0

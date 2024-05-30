@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e723634c268bfc4bb1db3449f6a7c47, type: 3}
+  m_Name: LeafSkill 2
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 6612c7165116b32478a22f3202355327, type: 3}
+  skillName: LeafSkill 2
+  curLevel: 0
+  maxLevel: 10
+  MP_Out: 75
+  price: 500
+  baseDame: 150
+  bounusDame: 1.2
+  totalDame: 150
+  timeRenew: 40

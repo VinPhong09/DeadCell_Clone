@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6827c333724e873498a08886ab5d444e, type: 3}
+  m_Name: HeavySword_LV3
+  m_EditorClassIdentifier: 
+  id: 3c8560754156f0148a13beae95f8b1ab
+  ItemName: HeavySword_LV3
+  maxStack: 1
+  Icon: {fileID: 21300000, guid: 554e2da08a5fc6a408caf0f25e3b898b, type: 3}
+  HP: 3
+  MP: 0
+  DA: 6
+  DEF: 0
+  ArP: 0
+  AS: 0
+  HPPercentBonus: 0
+  MPPercentBonus: 0
+  DAPercentBonus: 0
+  DEFPercentBonus: 0
+  ArPPercentBonus: 0
+  ASPercentBonus: 0
+  equipmentType: 6

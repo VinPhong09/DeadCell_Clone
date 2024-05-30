@@ -1,0 +1,483 @@
+fileFormatVersion: 2
+guid: 159e270786ca0ac4d9cb5bc57f1d2090
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ants_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 483
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f2b552aaa45414c9a43305e7e928e5
+      internalID: -2062849778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ants_25
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 483
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829c3dfa49731f940aa05764904c9336
+      internalID: 92855509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ants_26
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 483
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10356a7c61fcc12498f4fbde3b192f70
+      internalID: -584090003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ants_27
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 483
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12a2bcbea33cd14cbde514994e5a58e
+      internalID: -2119383896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ants_28
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 483
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7540cf7a7c74ec43b3c3e1fce5224c4
+      internalID: -689419930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ants_29
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 483
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab851d6c3bacd74d8465ab45c10de1c
+      internalID: 357540164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ants_30
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 483
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912f593e8b569ac4d867e5e7f14ff0cf
+      internalID: 822583899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ants_31
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 483
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7b8e3139191d24eb8d9b809c11904a
+      internalID: 1083621937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ants_32
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 483
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031e3757d6558db4f879bfc304b13b34
+      internalID: 1023748286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ants_33
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 483
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299138844c73c1f4aa0ec55d551e916b
+      internalID: 1033517081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ants_34
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 483
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b749a9e5dd147624d9c6ad42a4c0508d
+      internalID: -1684224527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ants_35
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 483
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ce80bb539ae374b8dd622005caf63d
+      internalID: 1606258815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ants_30: 822583899
+      Ants_91: -186530089
+      Ants_27: -2119383896
+      Ants_81: 1594391855
+      Ants_18: -969075583
+      Ants_75: -429251283
+      Ants_10: 563659598
+      Ants_23: -1629903462
+      Ants_29: 357540164
+      Ants_67: 449850
+      Ants_14: -264949802
+      Ants_87: 744282829
+      Ants_24: -2062849778
+      Ants_42: -784304658
+      Ants_95: 1356984455
+      Ants_76: 494291613
+      Ants_25: 92855509
+      Ants_22: -749855125
+      Ants_21: 1670718508
+      Ants_50: -1921452384
+      Ants_62: -966506693
+      Ants_85: 2087273878
+      Ants_5: 1409204971
+      Ants_65: 1126691024
+      Ants_59: -334264361
+      Ants_37: -1792902374
+      Ants_58: 1577166857
+      Ants_46: 415875313
+      Ants_86: -1720475111
+      Ants_52: -1445911203
+      Ants_1: 1444858486
+      Ants_63: -1522046537
+      Ants_64: -2015074481
+      Ants_13: -1332687654
+      Ants_4: -1254257697
+      Ants_2: 821371306
+      Ants_47: -24753502
+      Ants_92: 1172315540
+      Ants_19: 584035103
+      Ants_72: -1877849834
+      Ants_89: 326715601
+      Ants_60: 12462921
+      Ants_8: 244877951
+      Ants_34: -1684224527
+      Ants_68: 201616682
+      Ants_77: -1226527745
+      Ants_16: 1868561386
+      Ants_66: 56259339
+      Ants_9: 1615338845
+      Ants_39: 1543338182
+      Ants_49: 1618267637
+      Ants_74: -1758477479
+      Ants_3: 1019728337
+      Ants_6: -178734798
+      Ants_36: -1441172295
+      Ants_31: 1083621937
+      Ants_56: -1718167076
+      Ants_73: 508114585
+      Ants_84: -672590520
+      Ants_28: -689419930
+      Ants_38: -160727072
+      Ants_45: 1975000532
+      Ants_43: -663498255
+      Ants_78: 1438541080
+      Ants_15: 436887416
+      Ants_94: 1085735048
+      Ants_20: 1167208248
+      Ants_71: 765699316
+      Ants_61: -190872414
+      Ants_80: -1995101441
+      Ants_12: -1117715360
+      Ants_41: -1165569173
+      Ants_35: 1606258815
+      Ants_7: 1129802849
+      Ants_26: -584090003
+      Ants_11: -1569083696
+      Ants_70: -917150722
+      Ants_69: -434006113
+      Ants_83: 2101581766
+      Ants_93: 1838953495
+      Ants_79: -849856407
+      Ants_54: -756046772
+      Ants_82: -261253001
+      Ants_33: 1033517081
+      Ants_40: 388380400
+      Ants_51: -1701627462
+      Ants_53: 1826179607
+      Ants_17: -1738159748
+      Ants_32: 1023748286
+      Ants_0: 1670211264
+      Ants_44: -1433196514
+      Ants_57: -947802706
+      Ants_55: 1244165820
+      Ants_48: 768131349
+      Ants_88: -1712790285
+      Ants_90: 285436431
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

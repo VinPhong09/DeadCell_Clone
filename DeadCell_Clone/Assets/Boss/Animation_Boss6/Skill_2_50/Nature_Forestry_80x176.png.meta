@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: 21539ff8474c1604199c4d681d1b8fd8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nature_Forestry_80x176_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 352
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9094f199ac6fc3646b44f00b4ea7bdfc
+      internalID: 416296485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Forestry_80x176_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 352
+        width: 14
+        height: 66
+      alignment: 9
+      pivot: {x: 0.50000054, y: 0.1244738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f3a26a68f512d47a9094234e38da23
+      internalID: 825560790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Forestry_80x176_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 352
+        width: 25
+        height: 115
+      alignment: 9
+      pivot: {x: 0.55831546, y: 0.049945865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8090884e2efdf4d488f03e19b7b44b77
+      internalID: 1801651833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Forestry_80x176_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 352
+        width: 30
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5485962, y: 0.03611595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5def447ac66aff4fb2bea57c0d78177
+      internalID: 760565579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Forestry_80x176_4
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 352
+        width: 41
+        height: 158
+      alignment: 9
+      pivot: {x: 0.48221868, y: 0.047859676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a239520c08df7458f3d11c5b012233
+      internalID: -1890364358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Forestry_80x176_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 176
+        width: 54
+        height: 165
+      alignment: 9
+      pivot: {x: 0.44600302, y: 0.049370043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acde979ec6358048b6831a8c8de02f4
+      internalID: 1911992882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Forestry_80x176_6
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 176
+        width: 66
+        height: 165
+      alignment: 9
+      pivot: {x: 0.47791, y: 0.044952117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929ab45ea3aea6549b91f76eefef3dcc
+      internalID: 1061089516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Forestry_80x176_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 176
+        width: 73
+        height: 165
+      alignment: 9
+      pivot: {x: 0.45007116, y: 0.040534187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a2c6f3ed74ea945b83aeb0c4efa44e
+      internalID: 964484166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Forestry_80x176_8
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 176
+        width: 73
+        height: 165
+      alignment: 9
+      pivot: {x: 0.48002812, y: 0.04937023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabfddae8c4ed5f4892d78b8649b319b
+      internalID: -279708736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Forestry_80x176_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 176
+        width: 73
+        height: 165
+      alignment: 9
+      pivot: {x: 0.49001408, y: 0.053787973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4f652b3a16e5348b8809278d588a13
+      internalID: 1017666339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Forestry_80x176_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 73
+        height: 165
+      alignment: 9
+      pivot: {x: 0.48002848, y: 0.053788017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc9c315da7ce7e4bb5bc3cd7393e8a4
+      internalID: 5735896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Forestry_80x176_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 73
+        height: 165
+      alignment: 9
+      pivot: {x: 0.49001387, y: 0.04495241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7973646d40cd44faaeda412667e711
+      internalID: 479867194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Forestry_80x176_12
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 73
+        height: 165
+      alignment: 9
+      pivot: {x: 0.49001408, y: 0.04495241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099d83ea6d9eeb64ba6579540efd56dc
+      internalID: 306261313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Nature_Forestry_80x176_6: 1061089516
+      Nature_Forestry_80x176_7: 964484166
+      Nature_Forestry_80x176_10: 5735896
+      Nature_Forestry_80x176_3: 760565579
+      Nature_Forestry_80x176_5: 1911992882
+      Nature_Forestry_80x176_1: 825560790
+      Nature_Forestry_80x176_11: 479867194
+      Nature_Forestry_80x176_2: 1801651833
+      Nature_Forestry_80x176_9: 1017666339
+      Nature_Forestry_80x176_12: 306261313
+      Nature_Forestry_80x176_0: 416296485
+      Nature_Forestry_80x176_8: -279708736
+      Nature_Forestry_80x176_4: -1890364358
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

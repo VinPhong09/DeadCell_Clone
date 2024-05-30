@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6827c333724e873498a08886ab5d444e, type: 3}
+  m_Name: BootsLv3
+  m_EditorClassIdentifier: 
+  id: 862faf19c823cc34e9ed8ef351cb79a3
+  ItemName: BootsLv3
+  maxStack: 1
+  Icon: {fileID: 21300000, guid: fd482a172d133c04fb98905720777954, type: 3}
+  equipmentPanel: {fileID: 1983164513881460662, guid: daa70b068afc50741a0d4a16f820b0e8, type: 3}
+  equipmentSlot: {fileID: 1983164514480497810, guid: daa70b068afc50741a0d4a16f820b0e8, type: 3}
+  HP: 0
+  MP: 0
+  DA: 0
+  DEF: 0
+  ArP: 0
+  AS: 8
+  HPPercentBonus: 0
+  MPPercentBonus: 0
+  DAPercentBonus: 0
+  DEFPercentBonus: 0
+  ArPPercentBonus: 0
+  ASPercentBonus: 0
+  equipmentType: 3

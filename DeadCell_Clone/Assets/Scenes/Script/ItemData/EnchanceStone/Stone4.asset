@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fce3e5b3c3570a40834930b92a51327, type: 3}
+  m_Name: Stone4
+  m_EditorClassIdentifier: 
+  id: 0551d0f66b97b394f9139c6ef9545c4f
+  ItemName: Stone4
+  maxStack: 999
+  Icon: {fileID: 21300000, guid: 0e02d84e621225146aad977202f54a4c, type: 3}
+  stoneType: 0
+  enchancePanel: {fileID: 0}
+  rateTo1: 1
+  rateTo2: 1
+  rateTo3: 1
+  rateTo4: 0.4
+  rateTo5: 0.15
+  rateTo6: 0.08
+  rateTo7: 0.06
+  rateTo8: 0.05
+  rateTo9: 0.04
+  rateTo10: 0.03
+  rateUp: 0

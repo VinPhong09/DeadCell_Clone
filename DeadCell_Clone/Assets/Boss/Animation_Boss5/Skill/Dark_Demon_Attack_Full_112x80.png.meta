@@ -1,0 +1,904 @@
+fileFormatVersion: 2
+guid: e0300a58c50531647af64bc1e0991185
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 322
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dc9b5c8450575469f8315cbec926f3
+      internalID: -491675240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 404
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcbe47492f4afd48b93ae1375d04b8c
+      internalID: -1157020942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 402
+        width: 72
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf3a41be75e6524c92d00624bf931ea
+      internalID: -1728519246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_3
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 402
+        width: 72
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a6debf8c9114249a923a29a1c4ce7f
+      internalID: -626759594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_4
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 402
+        width: 72
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfa404cff51df644bcdd18b86e09457
+      internalID: -1750629520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 402
+        width: 72
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b82902c37d54547ab5fe1f19330089
+      internalID: 1098877420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 322
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d53d3feaf1613a4c9a26885f9b400ba
+      internalID: 1203177828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 322
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f8708df1f51ac48bb91c80e38e3a10
+      internalID: -106625440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_8
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 322
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9989539a471bdbb49ab5bdb1e120c3af
+      internalID: -812678054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_9
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 322
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e57f8115579d74d9ced3bac7a6e134
+      internalID: -787285230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_10
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 322
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0fdf865cf931c4db4113b6c759f206
+      internalID: -607933232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 242
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5083a42c4ee8f9446a5a94666a566122
+      internalID: 596045373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_12
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 242
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6610cce77b7f83047879b1ed0af6f299
+      internalID: 190778746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 242
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33f1629644079948b737172564b1c97
+      internalID: -573462902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_14
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 242
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67836057b65366b4f9caa7d7e99cb2fc
+      internalID: -647931992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_15
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 242
+        width: 89
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bc3280767399f418254bd273761557
+      internalID: -167636098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_16
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 242
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d16adbe0af9b44ca6e5de8cadb7cf7
+      internalID: -1677305188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 162
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8728c4be3347f4e852a8f7b70e6db0
+      internalID: -650004932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_18
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 162
+        width: 89
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cd8b093764aa746aea9ede305fb75f
+      internalID: -1263885262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_19
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 162
+        width: 89
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4235f5b29c4f4fd438124a3558dad9a5
+      internalID: 502447543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_20
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 162
+        width: 88
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006520619c7b68544942e3e9fa846434
+      internalID: 371716994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_21
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 162
+        width: 87
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98abdb51b9cb11a49bace50133233e76
+      internalID: 690968144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_22
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 162
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b56a7c3a45f68479569b89607e3fcd
+      internalID: 572990177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_23
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 82
+        width: 102
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db16cc5d105d255479ffaaf712eb50e2
+      internalID: 1654914114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_24
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 82
+        width: 102
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5bcf464b76fae4cbb9c872457cf58d
+      internalID: -1115468390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_25
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 82
+        width: 102
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a31d5be1f08fb94f87e1462521ba336
+      internalID: 1893294454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_26
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 82
+        width: 102
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002b1542648a62a48aaa2260ea5519ec
+      internalID: -1445493952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_27
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 82
+        width: 102
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088c16c09ace2d348aa28c6754f47326
+      internalID: 179174108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_28
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 82
+        width: 102
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b7151126d4aa64e84f818edd4ba4dd
+      internalID: -765468835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_29
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2
+        width: 102
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b25a2ae2d9ed94999bb6abb19949a2
+      internalID: -1687782012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_30
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2
+        width: 102
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c563f0720bc6146abdc23a60fc2805
+      internalID: -731562690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_31
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2
+        width: 94
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c13f80ee16374b40a06637b7732cd02
+      internalID: -1338906700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_32
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6b2c2780b25e143b4e27f9e42e317f
+      internalID: 1920283021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_33
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639016498b915c2469da2bcf922a534c
+      internalID: -1545928751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Demon_Attack_Full_112x80_34
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 406
+        width: 40
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd2801e2e9099c41b7ed05a34bd057b
+      internalID: 1150519563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dark_Demon_Attack_Full_112x80_31: -1338906700
+      Dark_Demon_Attack_Full_112x80_12: 190778746
+      Dark_Demon_Attack_Full_112x80_13: -573462902
+      Dark_Demon_Attack_Full_112x80_20: 371716994
+      Dark_Demon_Attack_Full_112x80_22: 572990177
+      Dark_Demon_Attack_Full_112x80_9: -787285230
+      Dark_Demon_Attack_Full_112x80_14: -647931992
+      Dark_Demon_Attack_Full_112x80_3: -626759594
+      Dark_Demon_Attack_Full_112x80_26: -1445493952
+      Dark_Demon_Attack_Full_112x80_5: 1098877420
+      Dark_Demon_Attack_Full_112x80_11: 596045373
+      Dark_Demon_Attack_Full_112x80_0: -491675240
+      Dark_Demon_Attack_Full_112x80_23: 1654914114
+      Dark_Demon_Attack_Full_112x80_4: -1750629520
+      Dark_Demon_Attack_Full_112x80_6: 1203177828
+      Dark_Demon_Attack_Full_112x80_8: -812678054
+      Dark_Demon_Attack_Full_112x80_34: 1150519563
+      Dark_Demon_Attack_Full_112x80_29: -1687782012
+      Dark_Demon_Attack_Full_112x80_32: 1920283021
+      Dark_Demon_Attack_Full_112x80_2: -1728519246
+      Dark_Demon_Attack_Full_112x80_10: -607933232
+      Dark_Demon_Attack_Full_112x80_15: -167636098
+      Dark_Demon_Attack_Full_112x80_27: 179174108
+      Dark_Demon_Attack_Full_112x80_16: -1677305188
+      Dark_Demon_Attack_Full_112x80_17: -650004932
+      Dark_Demon_Attack_Full_112x80_21: 690968144
+      Dark_Demon_Attack_Full_112x80_19: 502447543
+      Dark_Demon_Attack_Full_112x80_24: -1115468390
+      Dark_Demon_Attack_Full_112x80_28: -765468835
+      Dark_Demon_Attack_Full_112x80_18: -1263885262
+      Dark_Demon_Attack_Full_112x80_7: -106625440
+      Dark_Demon_Attack_Full_112x80_25: 1893294454
+      Dark_Demon_Attack_Full_112x80_30: -731562690
+      Dark_Demon_Attack_Full_112x80_33: -1545928751
+      Dark_Demon_Attack_Full_112x80_1: -1157020942
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

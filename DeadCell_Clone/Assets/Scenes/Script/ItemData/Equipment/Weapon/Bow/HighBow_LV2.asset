@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6827c333724e873498a08886ab5d444e, type: 3}
+  m_Name: HighBow_LV2
+  m_EditorClassIdentifier: 
+  id: 82f7663fd725ac64ea9256754a3bd583
+  ItemName: HighBow_lv2
+  maxStack: 1
+  Icon: {fileID: 21300000, guid: 7736b3c649ca4dc4d8814eba83795aa2, type: 3}
+  HP: 2
+  MP: 2
+  DA: 5
+  DEF: 0
+  ArP: 0
+  AS: 5
+  HPPercentBonus: 0
+  MPPercentBonus: 0
+  DAPercentBonus: 0
+  DEFPercentBonus: 0
+  ArPPercentBonus: 0
+  ASPercentBonus: 0
+  equipmentType: 5
